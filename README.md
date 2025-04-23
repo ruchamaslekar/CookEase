@@ -1,2 +1,2 @@
-# project01_cookEase
+# CookEase
 A repo created for the project purpose
